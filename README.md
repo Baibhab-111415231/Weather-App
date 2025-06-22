@@ -23,7 +23,7 @@ This is a beginner-friendly Weather App built using HTML, CSS, and JavaScript. I
 
 ## Live Demo
 
-👉 [Click here to view the app]()  
+👉 [Click here to view the app](https://baibhab-111415231.github.io/Weather-App/)  
 
 ---
 
