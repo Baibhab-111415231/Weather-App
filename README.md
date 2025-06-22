@@ -1,6 +1,8 @@
 # Weather App
 
 This is a beginner-friendly Weather App built using HTML, CSS, and JavaScript. It uses the OpenWeatherMap API to fetch real-time weather data.
+Won't work though because i have removed my API from the code.
+Clone the repo and add your own API key if ypou want to see it work.
 
 ---
 
@@ -24,6 +26,7 @@ This is a beginner-friendly Weather App built using HTML, CSS, and JavaScript. I
 ## Live Demo
 
 👉 [Click here to view the app](https://baibhab-111415231.github.io/Weather-App/)  
+If you want to make it work then generate you API key and put it in the 3rd line of script.js in place of "API Key".
 
 ---
 
