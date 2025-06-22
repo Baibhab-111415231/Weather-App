@@ -29,11 +29,13 @@ This is a beginner-friendly Weather App built using HTML, CSS, and JavaScript. I
 
 ## About Me
 
-I'm just getting started with web development, and this is my very first project.  
+I'm just getting started with web development, and this is my second project.
+Learned how to use API in this one.
+P.S - It takes some time for the API key to get activated.
 Excited to learn more and build bigger things soon!
 
 ---
 
 ## Feedback
 
-Feel free to share feedback or suggestions. Anything that will helps me improve!
+Feel free to share feedback or suggestions. Anything that helps me improve!
